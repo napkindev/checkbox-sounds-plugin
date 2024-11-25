@@ -17,7 +17,7 @@ interface CheckboxSoundsSettings {
 const DEFAULT_SETTINGS: CheckboxSoundsSettings = {
 	soundSetting: 'sound1',
 	enableAnimation: true,
-	animationType: 'random',
+	animationType: 'firework',
 	animationSize: 200, // Default size (100%)
 	animationPosition: 'center',
 	customX: 50,
